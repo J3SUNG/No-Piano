@@ -22,9 +22,9 @@
 ### 기술 스택
 
 Language : Java, C++ <br/>
-Library : OpenCV
-Tool : Android Studio, Visual Studio Code, 
-Device : Android, Raspberry Pi
+Library : OpenCV <br/>
+Tool : Android Studio, Visual Studio Code <br/>
+Device : Android, Raspberry Pi <br/>
 <br/><br/>
 
 ### 과정
